@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+author: "Me"
+date: "11/23/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is A Markdown document for project assignment 1
